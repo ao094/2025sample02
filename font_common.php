@@ -32,3 +32,5 @@
 <!-- aos -->
 <link href="aos/aos.css" rel="stylesheet" type="text/css">
 
+<!-- robots.txt -->
+<meta name="robots" content="noindex, nofollow">
